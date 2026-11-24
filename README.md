@@ -28,7 +28,7 @@ A minimal, dark-themed Arch Linux desktop setup built on **Hyprland** and **Kitt
 
 2. **Clone this repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/otherwiseabug/otherwise-my-dot-files/tree/main
    cd dotfiles
    ```
 
